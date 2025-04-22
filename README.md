@@ -1,4 +1,9 @@
-## hi im chase. i make discord bots, websites, apps, and more :p 
-
-if you want me to make anything special i wouldn't mind.⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀if you like my work and wanna support me u can [star my projects](https://github.com/kdcrs?tab=repositories) and follow me.
+hi im chase and i make discord bots, websites, apps, and more :p 
+<!--
+.
+!-->
+if you like [my projects](https://github.com/kdcrs?tab=repositories) you can star them and follow me!
+<!--
+.
+!-->
+still sorta getting back into coding so forgive me if i ain't doing too good plsss 
